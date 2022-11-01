@@ -12,6 +12,8 @@ Out of 105986 reviews there were no paid Vine 5 star reviews, we can see that th
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 0% of the 5 star reviews were from the paid Vine reviews and 64% were from the unpaid reviews
+![Screenshot 2022-11-01 164002](https://user-images.githubusercontent.com/107223650/199362588-b3ba3305-4677-4356-9815-dcf3fb53f4e1.png)
+![Screenshot 2022-11-01 164031](https://user-images.githubusercontent.com/107223650/199362596-f0e80ff8-d97a-491d-acdb-121ce183c99e.png)
 
 
 ## Summary:
